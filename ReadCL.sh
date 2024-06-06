@@ -1,3 +1,5 @@
+# © 22024 Daleman
+#
 #!/bin/bash
 
 FIRST=$1
